@@ -22,5 +22,7 @@ even though the viewer is called 3D it is by no means a 3D graphical scan of a d
 
 # soon to be added
 -table ordering system in JS
+
 -vertical atlas logic and overall more stable image handling
+
 -monetization options such as popup ads,homepage ads...(google ads)
