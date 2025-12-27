@@ -23,7 +23,7 @@ even though the viewer is called 3D it is by no means a 3D graphical scan of a d
 the atlas system expects a napoli_atlas.png like structure of a picture, meaning all atlases must follow DISHNAME_atlas.png structure, otherwise they WILL NOT LOAD.
 
 # soon to be added
--separated/external JS instead of current inline
+~~separated/external JS instead of current inline~~
 
 -table ordering system in JS
 
