@@ -3,11 +3,11 @@ is designed to be an easy to modify,implement and copy/paste template for QR COD
 
 # FEATURES
 1. simple and user friendly interface.
-2. locked aspect ratio (no pinch zoom) which gives a professional vibe.
+2. locked aspect ratio (no pinch zoom).
 3. multiple language support (croatian,english,german,italian,philipino).
 4. modular currency conversion algorithm (BAM to EUR default).
 5. DISH 3D VIEWER (more on this below).
-6. usual optimization techniques like lazy loading and atlas pictures.
+6. usual optimization techniques like lazy loading and atlas.
 
 # DISH 3D VIEWER
 dish 3D viewer is an addition to this menu meaning it is completely optional, if needed it can be completely removed.
