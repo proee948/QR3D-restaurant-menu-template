@@ -29,4 +29,6 @@ the categories and meals displayed are imaginary and serve the sole purpose of a
 
 -vertical atlas logic and overall more stable image handling
 
+- externalize all hardcoded dish values into a separate .json file
+
 -monetization options integration such as popup ads,homepage ads...(google ads)
